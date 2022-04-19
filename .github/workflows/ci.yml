@@ -1,5 +1,5 @@
-name:Integracion Continua
-on:[push]
+name: Integracion Continua
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
