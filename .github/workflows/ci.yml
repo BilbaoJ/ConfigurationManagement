@@ -1,7 +1,5 @@
-name: Continous Integration 
-
+name: Continous Integration
 on: [push]
-
 jobs:
   continous_integration:
     runs-on: ubuntu-latest
